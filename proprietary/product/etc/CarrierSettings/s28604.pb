@@ -1,5 +1,5 @@
 
-s28604¸ß‡”"n
+s28604 ÷Ó"n
 maxImageHeight˜
 maxImageWidth 
 maxMessageSize€ 

@@ -1,9 +1,11 @@
 
-s21405imsi_3d_214050104∏ﬂáî~j
-Movistartelefonica.esB
+s21405imsi_3d_214050104†˜”ùzf
+Movistartelefonica.esB
 telefonicaJ
 telefonicaPZhttp://mms.movistar.comb10.138.255.5j8080p
-IMSIMSpx"Üæ
+IMSIMSpx"»
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool(æ
 !non_roaming_operator_string_array2ò
 21401
 21402

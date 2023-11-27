@@ -1,11 +1,11 @@
 
-s71204gid1_3d_414c54414e∏ﬂáî
-Altaninternet.altan"Õ,
-(allow_emergency_numbers_in_call_log_bool(
+s71204gid1_3d_414c54414e†˜”ù
+Altaninternet.altan"«,
+(allow_emergency_numbers_in_call_log_bool( 
+hide_lte_plus_data_icon_bool(
 maxImageHeightò
 maxImageWidth†
-maxSubjectLengthP&
-"moto_enable_service_dialing_number(
+maxSubjectLengthP
 recipientLimit
 smsToMmsTextThreshold
 smsUsesSimpleCharactersOnly(%

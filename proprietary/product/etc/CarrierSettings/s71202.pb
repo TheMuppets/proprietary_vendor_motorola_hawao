@@ -1,11 +1,9 @@
 
-s71202∏ﬂáî@>
-Kolbikolbi3gPZhttp://mmsiceb10.184.202.24j8080"ì,
+s71202†˜”ù"Î,
 (allow_emergency_numbers_in_call_log_bool(
 maxImageHeightò
 maxImageWidth†
-maxSubjectLengthP&
-"moto_enable_service_dialing_number(,
+maxSubjectLengthP,
 !non_roaming_operator_string_array2
 74000
 recipientLimit

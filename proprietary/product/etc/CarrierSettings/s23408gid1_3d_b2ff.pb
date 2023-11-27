@@ -1,5 +1,5 @@
 
-s23408gid1_3d_b2ff¸ß‡”"Ø$
+s23408gid1_3d_b2ff ÷Ó"Ø$
  carrier_supports_ss_over_ut_bool(
 maxImageHeight˜
 maxImageWidth 3

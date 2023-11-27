@@ -1,6 +1,8 @@
 
-s21417spn_3d_mobilr∏ﬂáî"ñ≈
-!non_roaming_operator_string_array2ü
+s21417spn_3d_mobilr†˜”ù"”
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool(¿
+!non_roaming_operator_string_array2ö
 21401
 21402
 21403
@@ -10,18 +12,19 @@
 21407
 21408
 21409
-214010
-214011
-214012
-214013
-214014
-214015
-214016
-214017
-214018
-214019
-214020
-214021+
+21410
+21411
+21412
+21413
+21414
+21415
+21416
+21417
+21418
+21419
+21420
+21421
+21438+
 roaming_operator_string_array2
 
 404

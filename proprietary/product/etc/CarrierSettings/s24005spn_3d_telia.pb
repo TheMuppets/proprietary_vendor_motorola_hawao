@@ -1,8 +1,12 @@
 
-s24005spn_3d_telia∏ﬂáî"í
+s24005spn_3d_telia†˜”ù"£(
+$carrier_default_wfc_ims_enabled_bool("
+carrier_wfc_ims_available_bool(
 maxImageHeightò
-maxImageWidth†
-maxMessageSizeÄ¿%
+maxImageWidth†
+maxMessageSizeÄÄÄ
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool(
 recipientLimit"
 show_4g_for_lte_data_icon_bool(
 smsToMmsTextThreshold

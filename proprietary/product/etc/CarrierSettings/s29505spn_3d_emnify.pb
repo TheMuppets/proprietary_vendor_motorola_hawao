@@ -1,5 +1,5 @@
 
-s29505spn_3d_emnify∏ﬂáî
+s29505spn_3d_emnify†˜”ù
 EMnifyem"X
 maxImageHeightò
 maxImageWidth†

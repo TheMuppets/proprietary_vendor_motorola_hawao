@@ -1,5 +1,5 @@
 
-s51021∏ﬂáî•F
+s51021†˜”ù•F
 Indosat GPRSindosatgprs210.19.19.19:8080BindosatJindosatP[
 Indosat MMS
 indosatmmsBindosatJindosatPZhttp://mmsc.indosat.comb10.19.19.19j8080"Ü

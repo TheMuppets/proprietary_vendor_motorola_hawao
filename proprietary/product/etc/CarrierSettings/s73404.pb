@@ -1,5 +1,5 @@
 
-s73404∏ﬂáîÍ?
+s73404†˜”ùÍ?
 !Venezuela:Movistar:Internet Movilinternet.movistar.vePf
 Venezuela:Movistar:MMSmms.movistar.vePZ#http://mms.movistar.com.ve:8088/mmsb200.35.64.73j9001?
 Venezuela:Movistar:WAPwap.movistar.ve2200.35.64.73:9001P"" 
