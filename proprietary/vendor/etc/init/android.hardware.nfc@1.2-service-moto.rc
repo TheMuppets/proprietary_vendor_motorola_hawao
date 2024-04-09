@@ -1,9 +1,0 @@
-service vendor.nfc_hal_service /vendor/bin/hw/android.hardware.nfc@1.2-service
-    override
-    class hal
-    user nfc
-    group nfc
-    disabled
-    # Motorola, wangjiao, 06/02/2021, IKSWR-85914, add shutdown critical
-    shutdown critical
-
