@@ -85,9 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/etc/thermal-engine-hawao.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-hawao.conf \
     vendor/motorola/hawao/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/hawao/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
-    vendor/motorola/hawao/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
-    vendor/motorola/hawao/proprietary/vendor/firmware/a650_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_sqe.fw \
-    vendor/motorola/hawao/proprietary/vendor/firmware/a702_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_sqe.fw \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_afe_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_afe_params.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_mono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_mono.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/aw882xx_pid_1852_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_1852_acf.bin \
@@ -100,7 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-visionox-ft3519-88-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-visionox-ft3519-88-0000-hawao.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/focaltech-visionoxrm-ft3519-93-0000-hawao.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-visionoxrm-ft3519-93-0000-hawao.bin \
     vendor/motorola/hawao/proprietary/vendor/firmware/sec_s3nrn4v_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn4v_firmware.bin \
-    vendor/motorola/hawao/proprietary/vendor/lib/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxexternalformatutils.so \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_hi1634q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_hi1634q_eeprom.so \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_hawao_gc02m1_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_hawao_gc02m1_otp.so \
