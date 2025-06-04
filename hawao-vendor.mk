@@ -3293,6 +3293,7 @@ PRODUCT_PACKAGES += \
     libvidhance_horizon_correction \
     libvidhance_stabilizer \
     vendor.egistec.hardware.fingerprint@4.0 \
+    capsense_reset \
     android.hardware.biometrics.fingerprint@2.1-service-chipone \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
     thermal-engine
