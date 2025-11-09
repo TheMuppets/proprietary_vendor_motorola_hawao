@@ -3171,7 +3171,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigpreview.bin \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigpreviewlite.bin \
     vendor/motorola/hawao/proprietary/vendor/lib64/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideo.bin \
-    vendor/motorola/hawao/proprietary/vendor/lib64/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideolite.bin
+    vendor/motorola/hawao/proprietary/vendor/lib64/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideolite.bin \
+    vendor/motorola/hawao/proprietary/vendor/usr/idc/uinput-egis.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/uinput-egis.idc \
+    vendor/motorola/hawao/proprietary/vendor/usr/idc/uinput-fpsensor.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/uinput-fpsensor.idc \
+    vendor/motorola/hawao/proprietary/vendor/usr/keylayout/uinput-egis.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-egis.kl \
+    vendor/motorola/hawao/proprietary/vendor/usr/keylayout/uinput-fpsensor.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-fpsensor.kl
 
 PRODUCT_PACKAGES += \
     libthermalclient \
@@ -3271,6 +3275,7 @@ PRODUCT_PACKAGES += \
     libchilog \
     libcom.qti.chinodeutils \
     libets_teeclient_v2 \
+    libfp_ext_svc2 \
     libipebpsstriping \
     libjpege \
     liblmutils-ns \
@@ -3298,6 +3303,7 @@ PRODUCT_PACKAGES += \
     libvidhance_horizon_correction \
     libvidhance_stabilizer \
     vendor.egistec.hardware.fingerprint@4.0 \
+    vendor.fpsensor.hardware.fpsensorhidlsvc@2.0 \
     capsense_reset \
     cnss-daemon \
     android.hardware.biometrics.fingerprint@2.1-service-chipone \

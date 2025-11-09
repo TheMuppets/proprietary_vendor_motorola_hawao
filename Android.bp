@@ -3141,6 +3141,39 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    name: "libfp_ext_svc2",
+    owner: "motorola",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/vendor/lib64/libfp_ext_svc2.so",
+            ],
+            shared_libs: [
+                "libbinder",
+                "libhwbinder",
+                "libhidlbase",
+                "libhidltransport",
+                "libcutils",
+                "liblog",
+                "libutils",
+                "vendor.fpsensor.hardware.fpsensorhidlsvc@2.0",
+                "com.motorola.hardware.biometric.fingerprint@1.0",
+                "libc",
+                "libm",
+                "libdl",
+                "libc++",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    soc_specific: true,
+}
+
+cc_prebuilt_library_shared {
     name: "libipebpsstriping",
     owner: "motorola",
     strip: {
@@ -3892,6 +3925,34 @@ cc_prebuilt_library_shared {
         android_arm64: {
             srcs: [
                 "proprietary/vendor/lib64/vendor.egistec.hardware.fingerprint@4.0.so",
+            ],
+            shared_libs: [
+                "libhidlbase",
+                "liblog",
+                "libutils",
+                "libcutils",
+                "libc++",
+                "libc",
+                "libm",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    soc_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "vendor.fpsensor.hardware.fpsensorhidlsvc@2.0",
+    owner: "motorola",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/vendor/lib64/vendor.fpsensor.hardware.fpsensorhidlsvc@2.0.so",
             ],
             shared_libs: [
                 "libhidlbase",
