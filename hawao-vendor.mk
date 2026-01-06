@@ -3280,7 +3280,6 @@ PRODUCT_PACKAGES += \
     libfp_ext_svc2 \
     libipebpsstriping \
     libjpege \
-    liblmutils-ns \
     libmctfengine_stub \
     libmmcamera_cac3 \
     libmmcamera_faceproc \
